@@ -1,0 +1,116 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+.form-login {
+    background-color: #e6e6e6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    border-color:#666666;
+    border-width: 5px;
+    box-shadow: 5px 5px 5px #cfcfcf;
+}
+
+h4 {
+ border:0 solid #fff;
+ border-bottom-width:2px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.wrapper {
+    text-align: center;
+}
+button{
+  border-radius: 30px;
+    font-size: x-large;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 0.5em;
+}
+#name{
+    margin-top: 0.5em;
+}
+#enter{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-size: 2em;
+}
+
+
+label {
+    margin-top: 1em;
+    margin-right: 6em;
+    margin-left: 6em;
+    display: inline-block;
+    position: relative;
+    padding-left: 40px;
+    cursor: pointer;
+}
+
+input[name="radios"] {
+  height: 1px;
+  width: 1px;
+  opacity: 0;
+}
+
+.outside {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -10px;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #343a40;
+  border-radius: 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: none;
+}
+
+.inside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: inline-block;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  background: #343a40;
+  left: 3px;
+  top: 3px;
+  -webkit-transform: scale(0, 0);
+          transform: scale(0, 0);
+}
+.no-transforms .inside {
+  left: auto;
+  top: auto;
+  width: 0;
+  height: 0;
+}
+
+input {
+  /*  &:focus, &:active {
+        + .outside {
+          border-color: $almost-black;
+        }
+      }*/
+}
+input:checked + .outside .inside {
+  -webkit-animation: radio-select 0.1s linear;
+          animation: radio-select 0.1s linear;
+  -webkit-transform: scale(1, 1);
+          transform: scale(1, 1);
+}
+.no-transforms input:checked + .outside .inside {
+  width: 10px;
+  height: 10px;
+}

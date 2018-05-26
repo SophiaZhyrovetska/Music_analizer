@@ -1,0 +1,180 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+    text-transform: capitalize;
+}
+
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("http://www.funpingo.com/rahulFunadminPingoSITE/gallery/276071584desktop-wallpaper-hd-music.png") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+header.masthead .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+header.masthead h1 {
+  font-size: 2rem;
+}
+
+@media (min-width: 768px) {
+  header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
+  header.masthead h1 {
+    font-size: 3rem;
+  }
+}
+
+.showcase .showcase-text {
+  padding: 3rem;
+    text-align: center;
+}
+
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
+}
+
+
+.testimonials {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.testimonials .testimonial-item {
+  max-width: 18rem;
+}
+
+.testimonials .testimonial-item img {
+  max-width: 12rem;
+  box-shadow: 0px 5px 5px 0px #adb5bd;
+}
+
+.call-to-action {
+  position: relative;
+  background-color: #343a40;
+  background: url("../../startbootstrap-landing-page-gh-pages/img/bg-masthead.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.call-to-action .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+footer.footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+#genere{
+    background-image: url("https://i.pinimg.com/originals/43/ac/4c/43ac4cbaf3c38766be87718eef7d85c9.jpg");
+}
+#album{
+    background-image: url("http://static.hdw.eweb4.com/media/wallpapers_dl/1/127/1267263-minimalist-wallpaper-1366x768.jpg");
+}
+#rating{
+    background-image: url("http://www.kinyu-z.net/data/wallpapers/100/1051672.jpg");
+}
+#mood{
+    background-image: url("https://wallpaperlayer.com/img/2015/10/headphones-wallpaper-1166-1290-hd-wallpapers.jpg");
+}
+#keywords{
+    background-image: url("http://wallpaperlepi.com/wp-content/uploads/2015/01/Black-Hard-Rock-Wallpaper.jpg");
+}
+#country{
+    background-image: url("http://spektrum.pila.pl/wp-content/uploads/2017/12/dobry-polecany-zespol-muzyczny-pila-na-wesele.jpg");
+}
+#top_songs{
+    background-image: url("http://speakpercussion.com/wp-content/uploads/2012/12/BackgroundImages_Repertoire.jpg");
+}
+#num{
+    background-image: url("http://epicwallpaperz.com/wallpaper-hd/abstract-guitar-wallpapers-wide-On-wallpaper-hd.jpg");
+}
+#main{
+    font-size: 6em;
+}
+#artist{
+    font-size: 3.5em;
+    font-style: italic;
+}
+
+h2{
+    font-size: 6em;
+}
+.btn{
+     border-radius: 10px;
+    font-size: x-large;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-top: 1em;
+}
+.big_l{
+    font-size: 7em;
+    padding-top: 1.5em;
+    padding-left: 0.5em;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-weight: normal;
+}
+#key_words{
+    padding-left: 0.1em;
+    padding-top: 1.75em;
+    font-size: 6em;
+}
+.big_r {
+    font-size: 7em;
+    text-align: right;
+    padding-top: 1.5em;
+    padding-right: 0.5em;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-weight: normal;
+}
+
+.r_words{
+    padding-right: 0.1em;
+}
+.list{
+    font-size: 3em;
+}
+h3{
+    font-size: 2em;
+}

@@ -1,0 +1,4 @@
+pymusixmatch
+aylien-apiclient
+requests
+flask
