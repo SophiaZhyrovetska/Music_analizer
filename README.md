@@ -11,20 +11,24 @@ This application is intended to analize artists' discographies and particular so
 ## Installing
 
 <ol>
-<li>Clone this project</li>
+<li>Clone this project;</li>
 <li>Install requirements.txt:
   
 ```
 pip install -r requirements.txt
 ```
 </li>
-<li>Insert your Musixmatch and AYLIEN APIs' keys in <i>music_data_types.py</i></li>
-<li>Run app.py</li>
+<li>Insert your Musixmatch and AYLIEN APIs' keys in <i>music_data_types.py</i>;</li>
+<li>Run app.py.</li>
+</ol>
 
 Or simply visit [Music Analizer](http://sophie.pythonanywhere.com/)
 
 ## How to use
+
 Watch a user guide [here](https://vimeo.com/274741864)
+
+<img src = "//imgur.com/SEcqmda">
 
 ## Built With
 
