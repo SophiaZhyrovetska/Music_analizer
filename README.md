@@ -28,7 +28,7 @@ Or simply visit [Music Analizer](http://sophie.pythonanywhere.com/)
 
 Watch a user guide [here](https://vimeo.com/274741864)
 
-<img src = "https://imgur.com/SEcqmda">
+<img src = "http://i64.tinypic.com/syv095.jpg">
 
 ## Built With
 
