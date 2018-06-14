@@ -4,8 +4,8 @@ This application is intended to analize artists' discographies and particular so
 
 ## With Music Analizer you can:
 
-* Find out information about songs (genre, album, rating, etc.)
-* Find out information about artists (popular songs, rating, country, etc.)
+* Find out information about songs (genre, album, rating, etc.);
+* Find out information about artists (popular songs, rating, country, etc.);
 * Extract key words and mood of songs and artists' discographies.
 
 ## Installing
@@ -13,18 +13,19 @@ This application is intended to analize artists' discographies and particular so
 <ol>
 <li>Clone this project</li>
 <li>Install requirements.txt:
+  
 ```
 pip install -r requirements.txt
 ```
 </li>
-<li>Paste your Musixmatch and AYLIEN APIs' keys in <i>music_data_types.py</i></li>
+<li>Insert your Musixmatch and AYLIEN APIs' keys in <i>music_data_types.py</i></li>
 <li>Run app.py</li>
-
 
 Or simply visit [Music Analizer](http://sophie.pythonanywhere.com/)
 
-## How to sue
+## How to use
 Watch a user guide [here](https://vimeo.com/274741864)
+
 ## Built With
 
 * [Flask](http://flask.pocoo.org/) - The web framework used;
