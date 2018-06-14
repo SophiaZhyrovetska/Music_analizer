@@ -28,7 +28,7 @@ Or simply visit [Music Analizer](http://sophie.pythonanywhere.com/)
 
 Watch a user guide [here](https://vimeo.com/274741864)
 
-<img src = "//imgur.com/SEcqmda">
+<img src = "https://imgur.com/SEcqmda">
 
 ## Built With
 
@@ -39,7 +39,7 @@ Watch a user guide [here](https://vimeo.com/274741864)
 
 ## Authors
 
-* [**Sophia Zhyrovetska**](https://github.com/PurpleBooth)
+* [**Sophia Zhyrovetska**](https://github.com/SophiaZhyrovetska)
 
 
 ## License
