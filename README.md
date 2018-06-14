@@ -4,63 +4,30 @@ http://sophie.pythonanywhere.com/
 Watch video here:
 
 https://vimeo.com/274741864
-# Project Title
+# Music Analizer
 
-One Paragraph of project description goes here
+This application is intended to analize artists' discographies and particular songs.
 
-## Getting Started
+## With Music Analizer you can:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+<ul>
+<li>Find out information about songs (genre, album, rating, etc.)</li>
+<li>Find out information about artists (popular songs, rating, country, etc.)</li>
+<li>Extract key words and mood of songs and artists' discographies.</li>
+</ul>
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+<ol>
+<li>Clone this project</li>
+<li>Install requirements.txt:
+  
 ```
-Give the example
+pip install -r requirements.txt
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+</li>
+<li>Run app.py</li>
+Or simply use this <a href="http://sophie.pythonanywhere.com/">website</a>
 
 ## Built With
 
