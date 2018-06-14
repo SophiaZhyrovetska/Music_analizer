@@ -5,8 +5,8 @@ from aylienapiclient import textapi
 from itertools import groupby
 from help_functions import right_name
 
-musixmatch = Musixmatch('a8567e8be2c3c49b54582132732b8ff2')  # type your key instead of <apikey>
-client = textapi.Client("6273f7ea", "74c634aa40821aa2152953c069e0c8b9")  # type your app id and app key
+musixmatch = Musixmatch('<appkey>')  # type your key instead of <appkey>
+client = textapi.Client("<appid>", "<appkey>")  # type your app id and app key
 
 
 class Song:
