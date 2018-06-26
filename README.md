@@ -1,3 +1,5 @@
+<img src = "https://user-images.githubusercontent.com/40405175/41941418-da97b75c-7993-11e8-85a2-cefa9df0fdd0.png">
+
 # Music Analizer
 
 This application is intended to analize artists' discographies and particular songs.
