@@ -42,9 +42,9 @@ Watch a user guide [here](https://vimeo.com/274741864)
 ## Authors
 
 * [**Sophia Zhyrovetska**](https://github.com/SophiaZhyrovetska)
+See also the list of [contributors](https://github.com/SophiaZhyrovetska/Music_analizer/contributors) who participated in this project.
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
